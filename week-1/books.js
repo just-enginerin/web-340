@@ -3,7 +3,9 @@
 ; Title:  books.js
 ; Author: Professor Krasso
 ; Date:   8 March 2022
-; Description: Assignment 1 solution
+; Modified by: Erin Brady
+; Modification Date: 1/8/2023
+; Description: Assignment 1.3
 ;===========================================
 */
 
